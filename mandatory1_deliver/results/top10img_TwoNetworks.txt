@@ -1,0 +1,11 @@
+Top10 Bottom10
+train_2167.tif train_21286.tif
+train_40207.tif train_11331.tif
+train_18438.tif train_16005.tif
+train_19315.tif train_39875.tif
+train_32737.tif train_18585.tif
+train_8284.tif train_30809.tif
+train_34860.tif train_11329.tif
+train_5897.tif train_13663.tif
+train_28947.tif train_38255.tif
+train_8964.tif train_34099.tif
